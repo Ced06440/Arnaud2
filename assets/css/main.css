@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("/images/tessa-wilson-xkYJqEno62c-unsplash.jpg");
+		background: url("./images/tessa-wilson-xkYJqEno62c-unsplash.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2257,7 +2257,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("/images/DEB658EA-C588-442F-8BB7-791B3BF19323.png");
+		background: url("./images/DEB658EA-C588-442F-8BB7-791B3BF19323.png");
 		background-size: 400px 300px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2266,7 +2266,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("/images/deborah-diem-pnvPGgk4aZ0-unsplash.jpg");
+		background: url("./images/deborah-diem-pnvPGgk4aZ0-unsplash.jpg");
 		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: center center;
